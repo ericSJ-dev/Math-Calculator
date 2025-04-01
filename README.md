@@ -1,6 +1,6 @@
 # Description
 
-This project is a simple calculator where you can perform all 4 basic operations: addition, subtraction, multiplication, and division. It was developed using Java and some of the visual functions that the class library JOptionPane provides.
+This project is a simple calculator where you can perform all four basic operations: addition, subtraction, multiplication, and division. It was developed using Java and some of the visual functionalities provided by the `JOptionPane` class library.
 
 Take a look at the code!
 
@@ -14,7 +14,7 @@ The panel for the addition operation:
 
 ![add](https://github.com/user-attachments/assets/ccaadfed-3688-4200-87e1-60afeefe3001)
 
-The panel for the subtraction operation:
+The panel for the subtract operation:
 
 ![substract](https://github.com/user-attachments/assets/7d51a746-e32d-4394-b370-765626baed31)
 
@@ -30,9 +30,9 @@ The panel for the division operation, including validation for division by 0:
 
 ### Instructions
 
-First of all, you'll need basic tools to run this project:
+First of all, you'll need some basic tools to run this project:
 
-* A code editor, I am currently using VS Code. Link: https://code.visualstudio.com/download
-* The Java Development Kit (JDK) already installed on your computer. Link: https://www.oracle.com/co/java/technologies/downloads/#jdk24-windows
+* A code editor. I am currently using VS Code. Link: https://code.visualstudio.com/download
+* The Java Development Kit (JDK) installed on your computer. Link: https://www.oracle.com/co/java/technologies/downloads/#jdk24-windows
 
-To run the project you need to execute the `Vista.java` class located at `src/Vista.java` path in your code editor.
+To run the project, execute the `Vista.java` class located at `src/Vista.java` path in your code editor.
