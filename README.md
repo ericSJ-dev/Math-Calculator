@@ -35,4 +35,4 @@ First of all, you'll need some basic tools to run this project:
 * A code editor. I am currently using VS Code. Link: https://code.visualstudio.com/download
 * The Java Development Kit (JDK) installed on your computer. Link: https://www.oracle.com/co/java/technologies/downloads/#jdk24-windows
 
-To run the project, execute the `Vista.java` class located at `src/Vista.java` path in your code editor.
+To run the project, execute the `Vista.java` class located at `src/vista/Vista.java` path in your code editor.
