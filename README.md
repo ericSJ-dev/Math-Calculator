@@ -1,6 +1,6 @@
 # Description
 
-This project is a simple calculator where you can perform all four basic operations: addition, subtraction, multiplication, and division. It was developed using Java and some of the visual functionalities provided by the `JOptionPane` class library.
+This project is a simple calculator where you can perform all four basic operations: addition, subtraction, multiplication, and division. It was developed using Java and some of the visual functionalities provided by the `Swing` library.
 
 Take a look at the code!
 
